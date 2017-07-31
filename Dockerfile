@@ -1,4 +1,3 @@
-
 FROM openjdk:8
 MAINTAINER Ivan Pereira <ivan@zivan.org>
 
